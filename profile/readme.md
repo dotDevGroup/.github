@@ -21,7 +21,6 @@ Estas são todas as tecnologias que trabalhamos atualmente, e temos intenções 
 ![MySQL](https://img.shields.io/badge/-MySQL-5299cc?style=flat-square&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-031c03?style=flat-square&logo=Node.js)
 ![jQuery](https://img.shields.io/badge/-jQuery-1d2d39?style=flat-square&logo=jquery)
-![JSON](https://img.shields.io/badge/-JSON-838383?style=flat-square&logo=json)
 ![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
